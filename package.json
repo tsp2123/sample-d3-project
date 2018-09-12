@@ -22,7 +22,7 @@
     "eslint-plugin-promise": "^4.0.1",
     "eslint-plugin-standard": "^4.0.0",
     "prettier": "^1.14.2",
-    "build": "parcel build src/index.html --out-dir docs --public-url sample-d3-project"
+    "build": "parcel build src/index.html --out-dir docs --public-url /sample-d3-project"
   },
   "dependencies": {
     "d3": "^5.7.0",
